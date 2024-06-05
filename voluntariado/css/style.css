@@ -1,0 +1,27 @@
+body {
+    background-color: #e9ecef;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.section-gray {
+    background-color: #dee2e6;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.form-control,
+.btn {
+    border-radius: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #000;
+    border-radius: 50%;
+}
